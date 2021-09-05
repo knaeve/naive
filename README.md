@@ -1,2 +1,1 @@
-# Srijan
 My web portfolio :)
