@@ -1,7 +1,9 @@
-html {
-    font-family: "Ink Free";
-    background-image: url("./images/background.png");
+@font-face {
+    font-family: Ink Free;
+    src: url('font/Inkfree.ttf');
+    background-image: url("./images/");
 }
+
 
 .greetings {
     color: white;
