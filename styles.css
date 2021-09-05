@@ -1,6 +1,6 @@
 html {
     font-family: "Ink Free";
-    background-image: url("background.png");
+    background-image: url("./images/background.png");
 }
 
 .greetings {
@@ -56,7 +56,7 @@ html {
 
 body {
     font-family: "Ink Free";
-    background-image: url("background.png");
+    background-image: url("./images/background.png");
     overflow: hidden;
     margin: 0;
     padding: 0;
