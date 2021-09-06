@@ -24,11 +24,7 @@
     font-size: 55px;
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 10px;
-}
-
-.center-icons {
-    margin-top: 20px;
+    padding-bottom: 5px;
 }
 
 .github-icon {
@@ -62,10 +58,10 @@
 body {
     font-family: "Ink Free";
     background-image: url("./images/background.png");
-    overflow-x: hidden;
-    overflow-y: scroll;
     margin: 0;
     padding: 0;
+    zoom: 100%;
+
 }
 
 h1 {
