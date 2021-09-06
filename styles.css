@@ -15,7 +15,6 @@
     color: white;
     font-size: 75px;
     text-align: center;
-    padding-top: 10px;
     margin-bottom: 10px;
 }
 
@@ -23,8 +22,6 @@
     color: white;
     font-size: 55px;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 5px;
 }
 
 .github-icon {
@@ -58,9 +55,6 @@
 body {
     font-family: "Ink Free";
     background-image: url("./images/background.png");
-    margin: 0;
-    padding: 0;
-    zoom: 100%;
 
 }
 
