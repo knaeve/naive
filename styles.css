@@ -44,14 +44,14 @@
 }
 
 .github-icon {
-    color: rgb(131, 127, 127);
+    color: rgb(165, 159, 159);
     font-size: 40px;
     transition: color 0.5s;
     margin: 0 10px;
 }
 
 .discord-icon {
-    color: #3e61e0;
+    color: #0f34bd;
     font-size: 40px;
     transition: color 0.5s;
 }
