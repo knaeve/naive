@@ -56,7 +56,6 @@
     transition: color 0.5s;
 }
 
-
 .github-icon:hover{
     color: rgb(0, 0, 0);
 }
@@ -91,8 +90,8 @@ h1 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    width: 100vw;
+    padding-top: 390px;
+    padding-left: 100px;
 }
 
 .block {
@@ -108,7 +107,6 @@ h1 {
     box-shadow: 0 2px 4px 0 rgba(14, 30, 37, .16);
 
 }
-
 
 .error-message {
     font-size: 16px;
